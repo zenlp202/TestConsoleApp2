@@ -1,0 +1,10 @@
+C:\Users\x-991\source\repos\TestConsoleApp2\TestConsoleApp2\bin\Debug\netcoreapp2.0\TestConsoleApp2.deps.json
+C:\Users\x-991\source\repos\TestConsoleApp2\TestConsoleApp2\bin\Debug\netcoreapp2.0\TestConsoleApp2.runtimeconfig.json
+C:\Users\x-991\source\repos\TestConsoleApp2\TestConsoleApp2\bin\Debug\netcoreapp2.0\TestConsoleApp2.runtimeconfig.dev.json
+C:\Users\x-991\source\repos\TestConsoleApp2\TestConsoleApp2\bin\Debug\netcoreapp2.0\TestConsoleApp2.dll
+C:\Users\x-991\source\repos\TestConsoleApp2\TestConsoleApp2\bin\Debug\netcoreapp2.0\TestConsoleApp2.pdb
+C:\Users\x-991\source\repos\TestConsoleApp2\TestConsoleApp2\obj\Debug\netcoreapp2.0\TestConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\x-991\source\repos\TestConsoleApp2\TestConsoleApp2\obj\Debug\netcoreapp2.0\TestConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\x-991\source\repos\TestConsoleApp2\TestConsoleApp2\obj\Debug\netcoreapp2.0\TestConsoleApp2.AssemblyInfo.cs
+C:\Users\x-991\source\repos\TestConsoleApp2\TestConsoleApp2\obj\Debug\netcoreapp2.0\TestConsoleApp2.dll
+C:\Users\x-991\source\repos\TestConsoleApp2\TestConsoleApp2\obj\Debug\netcoreapp2.0\TestConsoleApp2.pdb
